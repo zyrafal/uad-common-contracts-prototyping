@@ -1,0 +1,9 @@
+#Hardhat files
+cache
+artifacts
+
+# Dependency directories
+node_modules/
+
+# IntelliJ files
+.idea
